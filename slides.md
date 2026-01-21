@@ -786,6 +786,218 @@ class: text-center
 Detailed introductions to each site
 
 ---
+layout: center
+class: text-center
+---
+
+# 巴塞罗那必看艺术品
+## Must-See Artworks in Barcelona
+
+探索巴塞罗那最具标志性的艺术珍品
+
+Discover Barcelona's most iconic artistic treasures
+
+---
+layout: image-right
+image: /images/picasso-museum.jpg
+---
+
+# 艺术品 1: 毕加索《侍女图》系列
+## Picasso's Las Meninas Series
+
+### 基本信息 Basic Info
+- **位置 Location:** 毕加索博物馆 Picasso Museum
+- **创作年份 Year:** 1957
+- **数量 Count:** 58件作品 58 works
+- **风格 Style:** 立体主义解构 Cubist deconstruction
+
+### 艺术价值 Artistic Value
+这是毕加索对委拉斯开兹名作《侍女图》的致敬与重新诠释。通过58幅作品，毕加索以立体主义手法解构了这幅17世纪的杰作，展现了他对古典大师的深刻理解和创新精神。
+
+Picasso's homage to Velázquez's masterpiece. Through 58 works, he deconstructed this 17th-century classic using Cubist techniques, showcasing his profound understanding of the old masters and innovative spirit.
+
+<div class="mt-2 p-2 bg-purple-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 在博物馆预留至少30分钟欣赏整个系列 Allow at least 30 minutes to appreciate the entire series
+
+</div>
+
+---
+layout: image-right
+image: /images/miro-museum.jpg
+---
+
+# 艺术品 2: 米罗的超现实主义雕塑
+## Miró's Surrealist Sculptures
+
+### 基本信息 Basic Info
+- **位置 Location:** 米罗基金会 Fundació Joan Miró
+- **创作年份 Years:** 1944-1982
+- **媒介 Medium:** 青铜、陶瓷 Bronze, Ceramics
+- **风格 Style:** 超现实主义 Surrealism
+
+### 艺术价值 Artistic Value
+米罗的雕塑作品充满了梦幻般的形态和鲜艳的色彩。他将加泰罗尼亚的民间艺术与超现实主义相结合，创造出独特的视觉语言。露台上的雕塑在地中海阳光下格外迷人。
+
+Miró's sculptures are filled with dreamlike forms and vibrant colors. He combined Catalan folk art with Surrealism to create a unique visual language. The sculptures on the terrace are especially captivating under the Mediterranean sun.
+
+<div class="mt-2 p-2 bg-blue-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 屋顶露台提供最佳观赏体验 Rooftop terrace offers the best viewing experience
+
+</div>
+
+---
+layout: image-right
+image: /images/mnac.jpg
+---
+
+# 艺术品 3: 罗马式教堂壁画
+## Romanesque Church Murals
+
+### 基本信息 Basic Info
+- **位置 Location:** 加泰罗尼亚国家艺术博物馆 MNAC
+- **创作年份 Period:** 11-13世纪 11th-13th century
+- **来源 Origin:** 比利牛斯山区教堂 Pyrenees churches
+- **技术 Technique:** 湿壁画 Fresco
+
+### 艺术价值 Artistic Value
+这些壁画原本装饰着比利牛斯山区的罗马式教堂。20世纪初被精心迁移至MNAC保存。壁画描绘圣经场景，色彩鲜艳，线条简洁有力，代表了中世纪加泰罗尼亚艺术的巅峰。
+
+These murals originally decorated Romanesque churches in the Pyrenees. Carefully transferred to MNAC in the early 20th century. Depicting biblical scenes with vivid colors and powerful lines, they represent the pinnacle of medieval Catalan art.
+
+<div class="mt-2 p-2 bg-amber-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 世界上最重要的罗马式艺术收藏之一 One of the world's most important Romanesque art collections
+
+</div>
+
+---
+layout: image-right
+image: /images/sagrada-familia.jpg
+---
+
+# 艺术品 4: 圣家堂受难立面雕塑
+## Sagrada Família Passion Façade Sculptures
+
+### 基本信息 Basic Info
+- **位置 Location:** 圣家堂 Sagrada Família
+- **雕塑家 Sculptor:** Josep Maria Subirachs
+- **创作年份 Years:** 1987-2005
+- **风格 Style:** 现代主义 Modernist
+
+### 艺术价值 Artistic Value
+苏比拉奇斯创作的受难立面雕塑以简洁的线条和棱角分明的形态讲述耶稣受难的故事。与高迪设计的诞生立面形成鲜明对比，这些雕塑充满戏剧性和情感张力，是现代宗教艺术的杰作。
+
+Subirachs' Passion Façade sculptures tell the story of Christ's Passion with clean lines and angular forms. In stark contrast to Gaudí's Nativity Façade, these sculptures are filled with drama and emotional intensity, masterpieces of modern religious art.
+
+<div class="mt-2 p-2 bg-red-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 注意观察雕塑中的数字象征意义 Pay attention to the numerical symbolism in the sculptures
+
+</div>
+
+---
+layout: image-right
+image: /images/casa-batllo.jpg
+---
+
+# 艺术品 5: 高迪的建筑艺术 - 巴特略之家
+## Gaudí's Architectural Art - Casa Batlló
+
+### 基本信息 Basic Info
+- **位置 Location:** 格拉西亚大道 Passeig de Gràcia
+- **建成年份 Year:** 1906
+- **风格 Style:** 加泰罗尼亚现代主义 Catalan Modernisme
+- **灵感 Inspiration:** 圣乔治屠龙传说 St. George and the Dragon
+
+### 艺术价值 Artistic Value
+巴特略之家将建筑与雕塑艺术完美融合。外墙的骨骼般阳台、龙鳞屋顶、海洋般的室内设计，每一处细节都体现了高迪对自然形态的深刻理解。这不仅是一座建筑，更是一件可以居住的艺术品。
+
+Casa Batlló perfectly merges architecture with sculptural art. The skeletal balconies, dragon-scale roof, and ocean-inspired interiors - every detail reflects Gaudí's profound understanding of natural forms. It's not just a building, but a livable work of art.
+
+<div class="mt-2 p-2 bg-blue-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 使用AR增强现实导览获得最佳体验 Use AR augmented reality guide for the best experience
+
+</div>
+
+---
+layout: image-right
+image: /images/park-guell.jpg
+---
+
+# 艺术品 6: 桂尔公园的马赛克艺术
+## Park Güell Mosaic Art
+
+### 基本信息 Basic Info
+- **位置 Location:** 桂尔公园 Park Güell
+- **创作者 Creator:** 安东尼·高迪 Antoni Gaudí
+- **年份 Years:** 1900-1914
+- **技术 Technique:** 碎瓷砖拼贴 Trencadís (broken tile mosaic)
+
+### 艺术价值 Artistic Value
+高迪在桂尔公园创造了令人惊叹的马赛克艺术。著名的蝾螈雕塑（El Drac）和蛇形长椅都运用了trencadís技法，用破碎的陶瓷和玻璃碎片创造出色彩斑斓的图案。这种艺术形式将废弃材料转化为永恒的美。
+
+Gaudí created stunning mosaic art at Park Güell. The famous salamander (El Drac) and serpentine bench utilize the trencadís technique, creating vibrant patterns from broken ceramic and glass pieces. This art form transforms discarded materials into timeless beauty.
+
+<div class="mt-2 p-2 bg-green-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 清晨阳光下马赛克色彩最为绚丽 Mosaics are most brilliant in morning sunlight
+
+</div>
+
+---
+layout: image-right
+image: /images/palau-musica.jpg
+---
+
+# 艺术品 7: 加泰罗尼亚音乐宫的彩色玻璃穹顶
+## Palau de la Música Stained Glass Skylight
+
+### 基本信息 Basic Info
+- **位置 Location:** 加泰罗尼亚音乐宫 Palau de la Música
+- **设计师 Designer:** 路易斯·多梅内克·蒙塔内尔 Lluís Domènech i Montaner
+- **年份 Year:** 1908
+- **材质 Material:** 彩色玻璃 Stained glass
+
+### 艺术价值 Artistic Value
+音乐厅中央的倒置玻璃穹顶是加泰罗尼亚现代主义的巅峰之作。由无数块彩色玻璃组成，描绘了一个金色太阳，周围环绕着40位女性合唱团成员。自然光透过玻璃，创造出梦幻般的光影效果，为音乐表演增添了神圣氛围。
+
+The inverted glass dome in the concert hall is the pinnacle of Catalan Modernisme. Composed of countless colored glass pieces depicting a golden sun surrounded by 40 female choir members. Natural light filtering through creates a dreamlike luminous effect, adding a sacred atmosphere to musical performances.
+
+<div class="mt-2 p-2 bg-purple-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 参加音乐会可以在最佳灯光下欣赏 Attend a concert to appreciate it under the best lighting
+
+</div>
+
+---
+layout: image-right
+image: /images/macba.jpg
+---
+
+# 艺术品 8: MACBA当代艺术收藏
+## MACBA Contemporary Art Collection
+
+### 基本信息 Basic Info
+- **位置 Location:** 巴塞罗那当代艺术博物馆 MACBA
+- **时期 Period:** 1945年至今 1945-present
+- **艺术家 Artists:** 塔皮埃斯、奇利达等 Tàpies, Chillida, and more
+- **风格 Styles:** 抽象、概念艺术 Abstract, Conceptual
+
+### 艺术价值 Artistic Value
+MACBA收藏了战后至今最具影响力的当代艺术作品。安东尼·塔皮埃斯的材料艺术作品尤其值得关注，他运用沙、大理石粉和其他非传统材料创作，探索物质性和精神性的关系。这些作品代表了巴塞罗那在国际当代艺术中的重要地位。
+
+MACBA houses the most influential contemporary artworks from post-war to present. Antoni Tàpies' material art is particularly noteworthy - using sand, marble dust, and unconventional materials to explore the relationship between materiality and spirituality. These works represent Barcelona's important position in international contemporary art.
+
+<div class="mt-2 p-2 bg-blue-500/10 rounded text-sm">
+
+**观赏建议 Tip:** 周六下午4-8点免费入场 Free admission Saturdays 4-8pm
+
+</div>
+
+---
 layout: image-right
 image: /images/sagrada-familia.jpg
 ---
