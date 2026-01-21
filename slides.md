@@ -812,7 +812,7 @@ image: /images/picasso-museum.jpg
 - **风格 Style:** 立体主义解构 Cubist deconstruction
 
 ### 艺术价值 Artistic Value
-这是毕加索对委拉斯开兹名作《侍女图》的致敬与重新诠释。通过58幅作品，毕加索以立体主义手法解构了这幅17世纪的杰作，展现了他对古典大师的深刻理解和创新精神。
+这是毕加索对委拉斯凯兹名作《侍女图》的致敬与重新诠释。通过58幅作品，毕加索以立体主义手法解构了这幅17世纪的杰作，展现了他对古典大师的深刻理解和创新精神。
 
 Picasso's homage to Velázquez's masterpiece. Through 58 works, he deconstructed this 17th-century classic using Cubist techniques, showcasing his profound understanding of the old masters and innovative spirit.
 
@@ -962,9 +962,9 @@ image: /images/palau-musica.jpg
 - **材质 Material:** 彩色玻璃 Stained glass
 
 ### 艺术价值 Artistic Value
-音乐厅中央的倒置玻璃穹顶是加泰罗尼亚现代主义的巅峰之作。由无数块彩色玻璃组成，描绘了一个金色太阳，周围环绕着40位女性合唱团成员。自然光透过玻璃，创造出梦幻般的光影效果，为音乐表演增添了神圣氛围。
+音乐厅中央的倒置玻璃穹顶是加泰罗尼亚现代主义的巅峰之作。由无数块彩色玻璃组成，描绘了一个金色太阳，周围环绕着代表缪斯女神的女性形象。自然光透过玻璃，创造出梦幻般的光影效果，为音乐表演增添了神圣氛围。
 
-The inverted glass dome in the concert hall is the pinnacle of Catalan Modernisme. Composed of countless colored glass pieces depicting a golden sun surrounded by 40 female choir members. Natural light filtering through creates a dreamlike luminous effect, adding a sacred atmosphere to musical performances.
+The inverted glass dome in the concert hall is the pinnacle of Catalan Modernisme. Composed of countless colored glass pieces depicting a golden sun surrounded by female figures representing the Muses. Natural light filtering through creates a dreamlike luminous effect, adding a sacred atmosphere to musical performances.
 
 <div class="mt-2 p-2 bg-purple-500/10 rounded text-sm">
 
